@@ -39,8 +39,14 @@ This project demonstrates key front-end development concepts, including:
 * Responsive design techniques
 * Creating a clean and user-friendly interface
 
-* OUTPUT:
+
 
 * 
 
 Overall, this personal portfolio website serves as a strong foundation for a developer’s online presence. It can be further enhanced by adding animations, JavaScript interactivity, or backend features such as contact forms and dynamic content.
+
+
+OUTPUT:
+
+<img width="1787" height="912" alt="image" src="https://github.com/user-attachments/assets/8fbef246-27fd-4608-950c-53aa4b01c275" />
+
